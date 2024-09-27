@@ -5,7 +5,7 @@
 
     <name> -- <role> -- <twitter>
 
-# THANKS
+# THANKS TO EVERYONE
 
     <name>
 
@@ -13,5 +13,5 @@
 
     HTML5, CSS3
     jQuery, Modernizr
-dasdadada
-dasdada
+
+
